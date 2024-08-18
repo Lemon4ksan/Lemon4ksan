@@ -7,8 +7,8 @@
 
 
 ## Sponsors
-### Jet
-#### Special thanks to JetBrains for providing free software for non-commercial open-source projects.
+### JetBrains
+Special thanks to JetBrains for providing free software for non-commercial open-source projects.
 
 <img height="150" width="150" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo.">
 
