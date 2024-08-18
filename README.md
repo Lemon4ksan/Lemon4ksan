@@ -1,7 +1,7 @@
 ## Hi, I'm Arseniy, but you can call me Bananchiki
 
-#### I'am a begginer software developer, my beloved language is Python!
-#### You can reach me on [Discord](https://discordapp.com/users/528481408319094784)
+### I'am a begginer software developer, my beloved language is Python!
+### You can reach me on [Discord](https://discordapp.com/users/528481408319094784)
 
 ![image](https://github.com/user-attachments/assets/71e41bd1-b4e2-46c9-9d7f-4e814014021a)
 
