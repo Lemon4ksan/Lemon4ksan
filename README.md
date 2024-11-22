@@ -1,4 +1,4 @@
-## Hi, I'm Bananchiki 👋
+## Hi, I'm Арсений 👋
 
 ### About Me
 
