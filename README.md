@@ -50,7 +50,7 @@ I am passionate about high-performance networking, low-level systems programming
 ### 📫 Contact & Connect
 
 - **Telegram:** [@LemonadeAK](https://t.me/LemonadeAK)
-- **Email:** [lemon4ksan@gmail.com](mailto:arsenii.komolov@yandex.ru)
+- **Email:** [arsenii.komolov@yandex.ru](mailto:arsenii.komolov@yandex.ru)
 
 <div align="center">
   <sub><i>"The right language in the wrong place can make all the difference..."</i></sub>
