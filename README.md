@@ -10,7 +10,7 @@ I am passionate about high-performance networking, low-level systems programming
 
 - 🔭 **Currently working on:** Ultra-fast, low-memory Steam network automation and high-load trading engines.
 - 🌱 **Learning more about:** Linux internals, advanced cryptography, and distributed systems.
-- ⚡ **Fun fact:** I fell in love with Go simply because of its Gopher logo—now it is my favorite systems programming language!
+- ⚡ **Fun fact:** I fell in love with Go simply because of its Gopher logo - now it is my favorite systems programming language!
 
 ---
 
