@@ -39,14 +39,6 @@ I am passionate about high-performance networking, low-level systems programming
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemon4ksan&show_icons=true&theme=tokyonight&count_private=true" alt="Arseny's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Contact & Connect
 
 - **Telegram:** [@LemonadeAK](https://t.me/LemonadeAK)
