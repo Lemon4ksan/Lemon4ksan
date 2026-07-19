@@ -44,6 +44,8 @@ I am passionate about high-performance networking, low-level systems programming
 - **Telegram:** [@LemonadeAK](https://t.me/LemonadeAK)
 - **Email:** [arsenii.komolov@yandex.ru](mailto:arsenii.komolov@yandex.ru)
 
+---
+
 <div align="center">
-  <sub><i>"The right language in the wrong place can make all the difference..."</i></sub>
+  <i>"Идиот восхищается сложностью, гений восхищается простотой. Физик пытается сделать вещи простыми. Для идиота же — чем сложнее вещь, тем больше он будет ею восхищаться. Если вы сделаете что-то настолько запутанным, что он не сможет этого понять, он подумает, что вы бог…"</i>
 </div>
