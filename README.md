@@ -49,3 +49,5 @@ I am passionate about high-performance networking, low-level systems programming
 <div align="center">
   <i>"Идиот восхищается сложностью, гений восхищается простотой. Физик пытается сделать вещи простыми. Для идиота же — чем сложнее вещь, тем больше он будет ею восхищаться. Если вы сделаете что-то настолько запутанным, что он не сможет этого понять, он подумает, что вы бог…"</i>
 </div>
+
+<!-- <a href="https://u8views.com/github/Lemon4ksan"><img src="https://u8views.com/api/v1/github/profiles/122788290/views/day-week-month-total-count.svg"></a> -->
