@@ -5,7 +5,7 @@ Core principles: mechanical sympathy, zero-allocation data paths, and replacing 
 
 ## Core Infrastructure
 
-* **[`foundation`](https://github.com/lemon4ksan/foundation)** — Silicon substrate. Native Go 1.27 `simd/archsimd` intrinsics, `c2plan9` (Clang `.o` to Plan 9 ASM compiler), 64-byte cacheline isolation, off-heap memory slabs (`silicon/pool`, `borrow`, `urlkit`).
+* **[`foundation`](https://github.com/lemon4ksan/foundation)** — Silicon substrate. Native Go 1.27 `simd/archsimd` intrinsics, 64-byte cacheline isolation, off-heap memory slabs (`silicon/pool`, `borrow`, `urlkit`).
 * **[`mach`](https://github.com/lemon4ksan/mach)** — Aerodynamic Layer 7 protocol engine. 2.8M+ RPS HTTP/1.1, in-situ HTTP/2 binary overlay (0.49 ns/op, 0 allocs), clean-room RFC 9000/9114 QUIC & HTTP/3, 50.3 GB/s SWAR WebSocket masking, Extended CONNECT (RFC 8441/9220), zero-alloc SOCKS5 dialer.
 * **[`seal`](https://github.com/lemon4ksan/seal)** — Ultra-fast containerization & archive engine. Next-gen `eon` format, Cauchy Reed-Solomon $GF(2^8)$ self-healing, $O(1)$ LBA seeking, deterministic memory ceiling ($\le 32$ MB RAM), zero-alloc stream parsers.
 * **[`ctrl`](https://github.com/lemon4ksan/ctrl)** — Zero-dependency CLI application framework & hardware-efficient terminal UI toolkit. POSIX flag clumping (`argkit`), Levenshtein typo suggestions, lock-free `NO_COLOR` toggles, zero-alloc `VisibleWidth`, auto-aligned tables, boxes, progress bars.
